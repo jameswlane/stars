@@ -4,7 +4,7 @@
 
 ## 🏠 Contents
 - [C](#c)
-- [C++](#c++)
+- [C++](#c-1)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
 - [Go](#go)
