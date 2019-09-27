@@ -279,6 +279,7 @@
 - [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers  
 
 ## Others
+- [semantic-release-npm-github-config](https://github.com/jedmao/semantic-release-npm-github-config) - semantic-release shareable configuration for npm + GitHub  
 - [github-actions-ci-templates](https://github.com/cutenode/github-actions-ci-templates) - ✅ A repository of templates for GitHub Actions CI configurations.  
 - [aws-javascript-developer-guide-v2](https://github.com/awsdocs/aws-javascript-developer-guide-v2) - The open source version of the AWS SDK for JavaScript Developer Guide  
 - [reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview  
@@ -443,7 +444,7 @@
 - [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All basic TypeScript types in one place 🤙  
 - [spherov2.js](https://github.com/igbopie/spherov2.js) - Unofficial Sphero V2 api for new toys like Sphero Mini, Lighting McQueen  
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code  
-- [storybook](https://github.com/storybookjs/storybook) - UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
+- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!  
 - [dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.  
 - [dtslint](https://github.com/microsoft/dtslint) - A utility built on TSLint for linting TypeScript declaration (.d.ts) files.  
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest  
