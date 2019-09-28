@@ -99,7 +99,7 @@
 - [statusboard](https://github.com/pkgjs/statusboard) - A status page for community projects  
 - [nighthawk](https://github.com/wesleytodd/nighthawk) - A wrapper around Express' router for the browser  
 - [site-kit-wp](https://github.com/google/site-kit-wp) - Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.  
-- [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Makes any webpage feel like an artboard via a little extension https://visbug.page.link/extension  
+- [ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Makes any webpage feel like an artboard via a little extension https://a.nerdy.dev/gimme-visbug  
 - [hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications  
 - [react-rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.  
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat  
@@ -325,7 +325,7 @@
 - [sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow  
 
 ## Perl
-- [ack2](https://github.com/beyondgrep/ack2) - ack 2.0 is a greplike tool optimized for programmers searching large heterogeneous trees of source code.  **ack 3 is the latest version.**  
+- [ack2](https://github.com/beyondgrep/ack2) - **ack 2 is no longer being maintained.  ack 3 is the latest version.**  
 
 ## Python
 - [memegenerator](https://github.com/danieldiekmeier/memegenerator) - Meme Generator using Python and PIL, Alfred2-Workflow as a bonus  
